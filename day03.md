@@ -243,4 +243,7 @@ This command filters and displays nginx-related processes.
 * `systemctl` is essential for managing Linux services.
 * nginx is commonly used as a web server and reverse proxy.
 
+* FORWARD PROXY WORKS ON BEHALF OF CLIENTS AND PROTECTS OR HIDES CLIENTS LIKE VPN.
+* REVERSE PROXY WORKS ON BEHALF OF BACKEND SERVERS AND PROTECTS ACTUAL BACKEND SERVERS LIKE NGINX.
+
 ---
